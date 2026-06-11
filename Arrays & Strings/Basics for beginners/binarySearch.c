@@ -1,3 +1,4 @@
+//Binary searching of elements by taking input in the code
 #include <stdio.h>
 int main()
 {
