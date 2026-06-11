@@ -11,9 +11,9 @@ while(str[i]!='\0'){
     i++;
     */
    //by for loop
-   int length=strlen(str);
-for(int i=0;i<length;i++){
-    printf("index %d: %c\n",i , str[i]);
+int length=strlen(str);
+    for(int i=0;i<length;i++){
+        printf("index %d: %c\n",i , str[i]);
 }
 
 return 0;
