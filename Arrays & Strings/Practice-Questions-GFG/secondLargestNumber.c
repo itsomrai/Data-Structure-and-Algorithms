@@ -1,4 +1,4 @@
-
+//Tracking largest and second largest
 int getSecondLargest(int arr[], int n) {
     if (n < 2){
         
